@@ -5,4 +5,5 @@ public class Class2 {
     //4
     //5
     //6
+    //7
 }
